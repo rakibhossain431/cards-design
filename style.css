@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+    padding: 22px;
+    text-align: center;
+}
+p{
+    padding: 12px;
+    
+}
+.cards{
+    display: flex;
+    width: 1140px;
+    margin:0 auto;
+}
+.cards{
+
+}
+.card{
+    padding:20px;
+
+}
+.card-card1{
+    background-color: aqua;
+    padding:20px;
+}
+.card-card2{
+    background-color: aquamarine;
+    padding:20px;
+}
+.card-card3{
+    background-color: bisque;
+    padding:20px;
+}
+.btn{
+    padding: 10px;
+    margin: 6px;
+    text-decoration: none;
+    color:white;
+    border-radius: 6px;
+    
+    background-color: blueviolet;
+}
+.btn:hover{
+    background-color: turquoise;
+    transition: 4s;
+}
